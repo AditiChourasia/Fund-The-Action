@@ -5,3 +5,7 @@ This application uses goerli testnet which is a test network in ethereum blockch
 
 So to use this application you must install metamask and create an account on it, post account creation switch to goerli testnet and request
 test eth from any of the available goerli faucets.
+
+TO RUN IT LOCALY ON YOUR PC. CLONE THIS REPO (MAIN BRANCH) AND RUN COMMAND => npm install TO INSTALL ALL MODULES AND DEPENDENCIES
+NOW RUN COMMAND npm run dev TO START THE APPLICATION 
+NOW OPEN http://localhost:3000/ ON YOUR BROWSER TO USE THE APPLICATION
